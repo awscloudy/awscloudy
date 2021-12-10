@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awscloudy (Arnav)
 - 👀 I’m interested in Learning Python in advance and would like to do some interesting project to stong my base
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Group coding and various projects for automobiles
 - 📫 How to reach me ...on Discord Chikoletta #0463
 Instagram - @awscloudy
 
